@@ -1,4 +1,4 @@
-ssay :
+Essay :
 1. Buatlah sebuah program yang mencetak angka dari 1 sampai dengan 120, yang mana, bila angka merupakan kelipatan tiga akan mencetak kata “Fizz” (tanpa tanda petik dua), 
 lalu bila angka merupakan kelipatan lima akan mencetak “Buzz”, dan jika angka merupakan kelipatan tiga dan lima kedua-duanya, maka akan mencetak “FizzBuzz”.
 
