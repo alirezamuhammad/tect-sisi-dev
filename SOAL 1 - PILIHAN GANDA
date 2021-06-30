@@ -1,0 +1,82 @@
+Soal Pilihan Ganda
+
+1.	Manakah yg tidak termasuk SDLC ?
+a.	Waterfall
+b.	Fountain
+c.	Spiral
+d.	Ruby
+e.	Prototype
+
+2.	Manakah hasil yang benar dari fungsi PHP dibawah ini :
+$str = "2020-20-12";
+$kata = (explode("-",$str));
+echo "$kata[1]-$kata[2]-$kata[0]";
+
+a.	2020-12-20
+b.	2020-20-20
+c.	20-2020-20
+d.	12-20-2020
+e.	20-12-2020
+
+3.	Bagaimanakah runtutan dari SDLC waterfall ?
+a.	Requirement – Design – Implementation – Testing – Maintenance
+b.	Initiation – Requirement – Implementation – Testing – Maintenance
+c.	Request User – Design – Implementation – Testing – Maintenance
+d.	Design – Requirement – Implementation – Maintenance – Re-Development
+e.	Requirement – Implementation – Design – Testing – Maintenance
+
+4.	Berikut adalah singkatan dari SQL, yaitu
+a.	Standard Query Language
+b.	Structured Query Language
+c.	Simulator Query Language
+d.	Structured Query Linear
+e.	Simulator Query Language
+
+5.	DDL (Data Definition Language) merupakan perintah yang digunakan untuk membuat, mengubah dan menghapus objek database, meliputi :
+a.	Insert, Update, Drop
+b.	Insert, Update, Delete
+c.	Create, Alter, Delete
+d.	Create, Alter, Drop 
+e.	Create, Alter, Delete
+
+6.	DML (Data Manipulation Language) merupakan perintah yang digunakan untuk menambah, mengubah dan menghapus data yang ada di dalam tabel, meliputi :
+a.	Insert, Update, Drop
+b.	Insert, Update, Delete
+c.	Create, Alter, Delete
+d.	Insert, Alter, Delete
+e.	Create, Alter, Drop
+
+7.	Perhatikan blok sintaks dibawah ini
+
+for($i=1; $i<=10; $i++){
+	if($i%2 == 0){
+		echo($i);
+	}
+}
+
+a.	Semua bilangan dari 1 s/d 10.
+b.	Bilangan genap dari 1 s/d 9.
+c.	Bilangan ganjil dari1 s/d 10.
+d.	Bilangan genap dari 1 s/d 10.
+e.	Bilangan ganjil dari 0 s/d 10.
+
+8.	Ajax request pada ES6 menggunakan script
+a.	then()
+b.	fetch()
+c.	jQuery.ajax()
+d.	async()
+e.	await()
+
+9.	Manakah framework yang support menghasilkan Mobile Aplication Android dan IOS sekaligus dalam sekali development :
+a.	Xamarin
+b.	Java
+c.	React Native
+d.	React JS
+e.	Laravel
+
+10.	Tipe variable yang mempunyai nilai statis dan tidak berubah adalah
+a.	string
+b.	var
+c.	let
+d.	int
+e.	const
